@@ -4,7 +4,7 @@ sum = 0
 string = ""
 
 # Open input file
-f = open("input.txt", "r")
+f = open("day1/input.txt", "r")
 
 # Read each line of input file
 string = f.readline()
